@@ -1,5 +1,4 @@
 const { expect } = require('@playwright/test')
-const { hasArgSpec } = require('appium/build/lib/schema/schema')
 exports.DocsPage = class DocsPage {
     constructor(page) {
         this.page = page
