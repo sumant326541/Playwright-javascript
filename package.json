@@ -1,5 +1,5 @@
 {
-  "name": "Playwright-javascript-BDD",
+  "name": "Playwright-javascript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/sumant326541/Playwright-javascript-BDD.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sumant Kumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sumant326541/Playwright-javascript-BDD/issues"
