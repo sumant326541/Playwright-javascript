@@ -6,15 +6,15 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumant326541/Playwright-javascript-BDD.git"
+    "url": "git+https://github.com/sumant326541/Playwright-javascrip.git"
   },
   "keywords": [],
   "author": "Sumant Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumant326541/Playwright-javascript-BDD/issues"
+    "url": "https://github.com/sumant326541/Playwright-javascript/issues"
   },
-  "homepage": "https://github.com/sumant326541/Playwright-javascript-BDD#readme",
+  "homepage": "https://github.com/sumant326541/Playwright-javascript#readme",
   "devDependencies": {
     "@playwright/test": "^1.43.1",
     "@types/node": "^20.12.7"
